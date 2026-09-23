@@ -1,7 +1,7 @@
 {
-  "versionCode": 12,
-  "versionName": "0.3.9",
-  "apkUrl": "https://github.com/SalvatoreArdimento/remind-releases/releases/download/v0.3.9/reminds-0.3.9.apk",
-  "sha256": "c04a79f6bfa131cf8a11503defe06201b49192126b83886909b32f3c9514bec4",
-  "changelog": "Home: le spese da approvare (Google Pay) usano le stesse card del Wallet. Inoltre: lettura notifiche limitata a Google Pay per privacy, verifica SHA-256 degli aggiornamenti e FileProvider ristretto."
+  "versionCode": 13,
+  "versionName": "0.3.10",
+  "apkUrl": "https://github.com/SalvatoreArdimento/remind-releases/releases/download/v0.3.10/reminds-0.3.10.apk",
+  "sha256": "5856bf01e9ba305d88d4a3cd518e65b99707dfa59814356b7220946d79ae7a36",
+  "changelog": "Home: la sezione 'Da approvare' si nasconde quando tocchi il campo di scrittura e riappare quando il campo è vuoto."
 }

@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
-  "versionName": "0.2.0",
-  "apkUrl": "https://github.com/SalvatoreArdimento/remind-releases/releases/download/v0.2.0/reminds-0.2.0.apk",
-  "changelog": "Aggiornamenti in-app, Diagnostica con report copiabile, notifiche per gli eventi dell'Agenda, suggerimenti tappabili nella Home con valori modificabili."
+  "versionCode": 3,
+  "versionName": "0.2.1",
+  "apkUrl": "https://github.com/SalvatoreArdimento/remind-releases/releases/download/v0.2.1/reminds-0.2.1.apk",
+  "changelog": "I suggerimenti della Home compaiono solo quando la tastiera è aperta; nel campo c'è la X per pulire la query."
 }

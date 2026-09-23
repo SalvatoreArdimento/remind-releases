@@ -1,7 +1,7 @@
 {
-  "versionCode": 16,
-  "versionName": "0.4.2",
-  "apkUrl": "https://github.com/SalvatoreArdimento/remind-releases/releases/download/v0.4.2/reminds-0.4.2.apk",
-  "sha256": "9c4c0c82ca7d49b764593c5187b12fd00af941a787b5d6b3cc5ae577ae6d35e8",
-  "changelog": "Home: toccando la campanella si apre direttamente il Wallet con i pagamenti da approvare, senza dialog intermedio."
+  "versionCode": 17,
+  "versionName": "0.4.3",
+  "apkUrl": "https://github.com/SalvatoreArdimento/remind-releases/releases/download/v0.4.3/reminds-0.4.3.apk",
+  "sha256": "044203f2cde494e02dca4f5485d147b76bc7a6248053cc51cd23fd0aa0711be3",
+  "changelog": "Corretto il tasto Home quando si apre il Wallet dalla campanella: ora torna correttamente alla Home."
 }

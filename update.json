@@ -1,6 +1,6 @@
 {
-  "versionCode": 1,
-  "versionName": "0.1.0",
-  "apkUrl": "https://github.com/SalvatoreArdimento/remind-releases/releases/download/v0.1.0/reminds-0.1.0.apk",
-  "changelog": "Prima release pubblica: Sveglia, Agenda (con notifiche), Timer, Reminder, Wallet, Calcolatrice, Blocco note, Diagnostica e Aggiornamenti."
+  "versionCode": 2,
+  "versionName": "0.2.0",
+  "apkUrl": "https://github.com/SalvatoreArdimento/remind-releases/releases/download/v0.2.0/reminds-0.2.0.apk",
+  "changelog": "Aggiornamenti in-app, Diagnostica con report copiabile, notifiche per gli eventi dell'Agenda, suggerimenti tappabili nella Home con valori modificabili."
 }

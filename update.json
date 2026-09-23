@@ -1,7 +1,7 @@
 {
-  "versionCode": 13,
-  "versionName": "0.3.10",
-  "apkUrl": "https://github.com/SalvatoreArdimento/remind-releases/releases/download/v0.3.10/reminds-0.3.10.apk",
-  "sha256": "5856bf01e9ba305d88d4a3cd518e65b99707dfa59814356b7220946d79ae7a36",
-  "changelog": "Home: la sezione 'Da approvare' si nasconde quando tocchi il campo di scrittura e riappare quando il campo è vuoto."
+  "versionCode": 14,
+  "versionName": "0.4.0",
+  "apkUrl": "https://github.com/SalvatoreArdimento/remind-releases/releases/download/v0.4.0/reminds-0.4.0.apk",
+  "sha256": "cc893a65a56ca7dd2c99feb400112e8f10002fb0fcbf05da53afdf57c83df710",
+  "changelog": "Home: nuova campanellina con badge che apre i pagamenti Google Pay da approvare (stesse card del Wallet: Approva / Scarta / Modifica)."
 }

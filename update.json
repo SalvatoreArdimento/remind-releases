@@ -1,7 +1,7 @@
 {
-  "versionCode": 15,
-  "versionName": "0.4.1",
-  "apkUrl": "https://github.com/SalvatoreArdimento/remind-releases/releases/download/v0.4.1/reminds-0.4.1.apk",
-  "sha256": "b70c1c26ba9f70b0e88020caa3a5381af5b991aeea9b09512bba0dc2ae917fc4",
-  "changelog": "Sistemato il layout delle card 'Da approvare': pulsanti a larghezza naturale che vanno a capo e testi con ellissi, niente più scritte schiacciate."
+  "versionCode": 16,
+  "versionName": "0.4.2",
+  "apkUrl": "https://github.com/SalvatoreArdimento/remind-releases/releases/download/v0.4.2/reminds-0.4.2.apk",
+  "sha256": "9c4c0c82ca7d49b764593c5187b12fd00af941a787b5d6b3cc5ae577ae6d35e8",
+  "changelog": "Home: toccando la campanella si apre direttamente il Wallet con i pagamenti da approvare, senza dialog intermedio."
 }

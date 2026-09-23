@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "0.2.2",
-  "apkUrl": "https://github.com/SalvatoreArdimento/remind-releases/releases/download/v0.2.2/reminds-0.2.2.apk",
-  "changelog": "Fix dello spazio nero all'apertura della tastiera nella Home; la sezione Reminder ora si chiama Routine; \"ricordami\" e \"devo ...\" creano eventi in Agenda."
+  "versionCode": 5,
+  "versionName": "0.3.0",
+  "apkUrl": "https://github.com/SalvatoreArdimento/remind-releases/releases/download/v0.3.0/reminds-0.3.0.apk",
+  "changelog": "Avviso di aggiornamento all'avvio (banner in Home); fix dell'errore all'annullamento della digitazione; sezione Reminder rinominata Routine; \"ricordami\"/\"devo ...\" ora creano eventi."
 }

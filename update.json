@@ -1,6 +1,6 @@
 {
-  "versionCode": 9,
-  "versionName": "0.3.6",
-  "apkUrl": "https://github.com/SalvatoreArdimento/remind-releases/releases/download/v0.3.6/reminds-0.3.6.apk",
-  "changelog": "Le spese rilevate dalle notifiche Google Pay compaiono ora nel Wallet come record '*DA APPROVARE*', con Approva/Scarta direttamente nella sezione spese."
+  "versionCode": 10,
+  "versionName": "0.3.7",
+  "apkUrl": "https://github.com/SalvatoreArdimento/remind-releases/releases/download/v0.3.7/reminds-0.3.7.apk",
+  "changelog": "Lettura spese Google Pay attiva di default (disattivabile), il test in Diagnostica crea una spesa da approvare visibile nel Wallet e mostra l'esito per ogni notifica letta."
 }

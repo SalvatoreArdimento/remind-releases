@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "0.2.1",
-  "apkUrl": "https://github.com/SalvatoreArdimento/remind-releases/releases/download/v0.2.1/reminds-0.2.1.apk",
-  "changelog": "I suggerimenti della Home compaiono solo quando la tastiera è aperta; nel campo c'è la X per pulire la query."
+  "versionCode": 4,
+  "versionName": "0.2.2",
+  "apkUrl": "https://github.com/SalvatoreArdimento/remind-releases/releases/download/v0.2.2/reminds-0.2.2.apk",
+  "changelog": "Fix dello spazio nero all'apertura della tastiera nella Home; la sezione Reminder ora si chiama Routine; \"ricordami\" e \"devo ...\" creano eventi in Agenda."
 }

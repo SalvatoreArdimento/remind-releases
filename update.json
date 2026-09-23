@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "0.3.1",
-  "apkUrl": "https://github.com/SalvatoreArdimento/remind-releases/releases/download/v0.3.1/reminds-0.3.1.apk",
-  "changelog": "Date esplicite in linguaggio naturale (\"il 6 novembre\", \"6/11\", con anno opzionale); nuova icona con R bianca su sfondo viola."
+  "versionCode": 7,
+  "versionName": "0.3.2",
+  "apkUrl": "https://github.com/SalvatoreArdimento/remind-releases/releases/download/v0.3.2/reminds-0.3.2.apk",
+  "changelog": "Il controllo aggiornamenti legge il manifest dall'asset dell'ultima release: aggiornamento istantaneo, senza il ritardo di ~5 minuti della cache di raw.githubusercontent.com."
 }

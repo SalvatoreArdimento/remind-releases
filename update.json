@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "0.3.0",
-  "apkUrl": "https://github.com/SalvatoreArdimento/remind-releases/releases/download/v0.3.0/reminds-0.3.0.apk",
-  "changelog": "Avviso di aggiornamento all'avvio (banner in Home); fix dell'errore all'annullamento della digitazione; sezione Reminder rinominata Routine; \"ricordami\"/\"devo ...\" ora creano eventi."
+  "versionCode": 6,
+  "versionName": "0.3.1",
+  "apkUrl": "https://github.com/SalvatoreArdimento/remind-releases/releases/download/v0.3.1/reminds-0.3.1.apk",
+  "changelog": "Date esplicite in linguaggio naturale (\"il 6 novembre\", \"6/11\", con anno opzionale); nuova icona con R bianca su sfondo viola."
 }

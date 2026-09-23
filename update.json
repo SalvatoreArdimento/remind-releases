@@ -1,6 +1,6 @@
 {
-  "versionCode": 10,
-  "versionName": "0.3.7",
-  "apkUrl": "https://github.com/SalvatoreArdimento/remind-releases/releases/download/v0.3.7/reminds-0.3.7.apk",
-  "changelog": "Lettura spese Google Pay attiva di default (disattivabile), il test in Diagnostica crea una spesa da approvare visibile nel Wallet e mostra l'esito per ogni notifica letta."
+  "versionCode": 11,
+  "versionName": "0.3.8",
+  "apkUrl": "https://github.com/SalvatoreArdimento/remind-releases/releases/download/v0.3.8/reminds-0.3.8.apk",
+  "changelog": "In Diagnostica la notifica simulata viene etichettata chiaramente come test di Reminds, per non confonderla con un pagamento Google Pay non riconosciuto."
 }

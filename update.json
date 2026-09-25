@@ -1,7 +1,7 @@
 {
-  "versionCode": 24,
-  "versionName": "0.7.2",
-  "apkUrl": "https://github.com/SalvatoreArdimento/remind-releases/releases/download/v0.7.2/reminds-0.7.2.apk",
-  "sha256": "0da4fc75040bd0ca4894966e3881c41daa00bdd962085cd6eb51adb2085467d0",
-  "changelog": "Liste: corretto l'autosave (le voci non vengono più cancellate salvando il titolo) e casella 'fatto' spostata a destra."
+  "versionCode": 25,
+  "versionName": "0.7.3",
+  "apkUrl": "https://github.com/SalvatoreArdimento/remind-releases/releases/download/v0.7.3/reminds-0.7.3.apk",
+  "sha256": "b733681fe781a09a9c6faa1afd8d4ff524fcf0749d831bc098aa806968cd604f",
+  "changelog": "Agenda: corretto il promemoria di un evento che squillava in continuazione; ora arriva una sola notifica."
 }

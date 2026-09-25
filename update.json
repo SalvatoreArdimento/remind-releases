@@ -1,7 +1,7 @@
 {
-  "versionCode": 20,
-  "versionName": "0.6.1",
-  "apkUrl": "https://github.com/SalvatoreArdimento/remind-releases/releases/download/v0.6.1/reminds-0.6.1.apk",
-  "sha256": "86c90d214d0c5c2f2e3e20b7add073236a000350f8f81d7d0fa1d8d22127c31c",
-  "changelog": "Tool 'Data': supporto a 'che giorno è ieri / l'altro ieri / domani / dopodomani' e risposta senza 'il prossimo' (es. 'Sabato è il 26 settembre.')."
+  "versionCode": 21,
+  "versionName": "0.6.2",
+  "apkUrl": "https://github.com/SalvatoreArdimento/remind-releases/releases/download/v0.6.2/reminds-0.6.2.apk",
+  "sha256": "5878f491f7afa834704f961c292d98657d8983bb6367c9702041c6ec5bd91b92",
+  "changelog": "Tool 'Data': niente più card 'modello incerto' (ora mostra la risposta) e formato minimale tipo '26 Settembre Sabato'."
 }

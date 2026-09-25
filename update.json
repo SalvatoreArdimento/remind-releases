@@ -1,7 +1,7 @@
 {
-  "versionCode": 17,
-  "versionName": "0.4.3",
-  "apkUrl": "https://github.com/SalvatoreArdimento/remind-releases/releases/download/v0.4.3/reminds-0.4.3.apk",
-  "sha256": "044203f2cde494e02dca4f5485d147b76bc7a6248053cc51cd23fd0aa0711be3",
-  "changelog": "Corretto il tasto Home quando si apre il Wallet dalla campanella: ora torna correttamente alla Home."
+  "versionCode": 18,
+  "versionName": "0.5.0",
+  "apkUrl": "https://github.com/SalvatoreArdimento/remind-releases/releases/download/v0.5.0/reminds-0.5.0.apk",
+  "sha256": "6e391408fce90c43039a5180b840aab36eac7fa3106e69a6da00c025a3d42830",
+  "changelog": "Accesso rapido di sistema: tile 'Reminds Rapido' nelle Impostazioni rapide con overlay di input, App Shortcuts (Timer/Nota/Spesa + Approva spese), deep link reminds:// e notifica 'Spesa rilevata' con Approva/Scarta direttamente dalla tendina."
 }

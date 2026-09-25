@@ -1,7 +1,7 @@
 {
-  "versionCode": 18,
-  "versionName": "0.5.0",
-  "apkUrl": "https://github.com/SalvatoreArdimento/remind-releases/releases/download/v0.5.0/reminds-0.5.0.apk",
-  "sha256": "6e391408fce90c43039a5180b840aab36eac7fa3106e69a6da00c025a3d42830",
-  "changelog": "Accesso rapido di sistema: tile 'Reminds Rapido' nelle Impostazioni rapide con overlay di input, App Shortcuts (Timer/Nota/Spesa + Approva spese), deep link reminds:// e notifica 'Spesa rilevata' con Approva/Scarta direttamente dalla tendina."
+  "versionCode": 19,
+  "versionName": "0.6.0",
+  "apkUrl": "https://github.com/SalvatoreArdimento/remind-releases/releases/download/v0.6.0/reminds-0.6.0.apk",
+  "sha256": "dae528958388455ce6262be7b7c4d0d7a5185db901cb50fdd2497259fe0240e5",
+  "changelog": "Agenda: vista calendario mensile con giorni evidenziati e lista del giorno. Home: nuovo tool 'Data' (anche via modello locale) per domande tipo 'che giorno è il 26 settembre?' o 'che giorno è sabato?'. Overlay input rapido: non si chiude più sulle risposte informative."
 }

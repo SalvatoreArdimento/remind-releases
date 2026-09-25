@@ -1,7 +1,7 @@
 {
-  "versionCode": 21,
-  "versionName": "0.6.2",
-  "apkUrl": "https://github.com/SalvatoreArdimento/remind-releases/releases/download/v0.6.2/reminds-0.6.2.apk",
-  "sha256": "5878f491f7afa834704f961c292d98657d8983bb6367c9702041c6ec5bd91b92",
-  "changelog": "Tool 'Data': niente più card 'modello incerto' (ora mostra la risposta) e formato minimale tipo '26 Settembre Sabato'."
+  "versionCode": 22,
+  "versionName": "0.7.0",
+  "apkUrl": "https://github.com/SalvatoreArdimento/remind-releases/releases/download/v0.7.0/reminds-0.7.0.apk",
+  "sha256": "406054293ffd60e0f08be67a52677b232226c48e0e369f806a760e965dd181be",
+  "changelog": "Nuova sezione Liste: liste dinamiche (spesa, palestra…) con nome, quantità, nota, checkbox 'fatto', progresso, riordino, reset e autosave. Aggiunta la sezione Patchnote con la cronologia delle versioni."
 }

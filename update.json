@@ -1,7 +1,7 @@
 {
-  "versionCode": 23,
-  "versionName": "0.7.1",
-  "apkUrl": "https://github.com/SalvatoreArdimento/remind-releases/releases/download/v0.7.1/reminds-0.7.1.apk",
-  "sha256": "33ad5dac539c1e6eb7d6fc3458110d3de92291c8b932cfb8247248976f802735",
-  "changelog": "Liste: quantità numerica con frecce su/giù, la spunta completa una sola unità con barra di progresso per ogni voce, e fix della tastiera che copriva il campo di inserimento."
+  "versionCode": 24,
+  "versionName": "0.7.2",
+  "apkUrl": "https://github.com/SalvatoreArdimento/remind-releases/releases/download/v0.7.2/reminds-0.7.2.apk",
+  "sha256": "0da4fc75040bd0ca4894966e3881c41daa00bdd962085cd6eb51adb2085467d0",
+  "changelog": "Liste: corretto l'autosave (le voci non vengono più cancellate salvando il titolo) e casella 'fatto' spostata a destra."
 }

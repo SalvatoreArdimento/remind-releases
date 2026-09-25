@@ -1,7 +1,7 @@
 {
-  "versionCode": 22,
-  "versionName": "0.7.0",
-  "apkUrl": "https://github.com/SalvatoreArdimento/remind-releases/releases/download/v0.7.0/reminds-0.7.0.apk",
-  "sha256": "406054293ffd60e0f08be67a52677b232226c48e0e369f806a760e965dd181be",
-  "changelog": "Nuova sezione Liste: liste dinamiche (spesa, palestra…) con nome, quantità, nota, checkbox 'fatto', progresso, riordino, reset e autosave. Aggiunta la sezione Patchnote con la cronologia delle versioni."
+  "versionCode": 23,
+  "versionName": "0.7.1",
+  "apkUrl": "https://github.com/SalvatoreArdimento/remind-releases/releases/download/v0.7.1/reminds-0.7.1.apk",
+  "sha256": "33ad5dac539c1e6eb7d6fc3458110d3de92291c8b932cfb8247248976f802735",
+  "changelog": "Liste: quantità numerica con frecce su/giù, la spunta completa una sola unità con barra di progresso per ogni voce, e fix della tastiera che copriva il campo di inserimento."
 }

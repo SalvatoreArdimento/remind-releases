@@ -1,7 +1,7 @@
 {
-  "versionCode": 29,
-  "versionName": "0.9.0",
-  "apkUrl": "https://github.com/SalvatoreArdimento/remind-releases/releases/download/v0.9.0/reminds-0.9.0.apk",
-  "sha256": "a0c743087cd6248500f2f8dc88abddf73121842981f549494ec43bdae0267f49",
-  "changelog": "Nuove Note nascoste (impronta/blocco dispositivo, contenuto cifrato, fuori da screenshot e backup) e nuova sezione Parcheggio (GPS ad alta precisione, storico, mappa, offline). La Home capisce \"Ho appena parcheggiato\" e \"Dove ho parcheggiato?\"."
+  "versionCode": 30,
+  "versionName": "0.9.1",
+  "apkUrl": "https://github.com/SalvatoreArdimento/remind-releases/releases/download/v0.9.1/reminds-0.9.1.apk",
+  "sha256": "fcfd1463f765ca3b0b17a472a313079e60c57bf7e6664d10101fb864997f2425",
+  "changelog": "Note nascoste: dopo aver creato o modificato una nota non viene piu richiesta di nuovo l'autenticazione tornando alla lista; l'accesso si blocca di nuovo solo uscendo dalla sezione."
 }

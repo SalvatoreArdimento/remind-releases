@@ -1,7 +1,7 @@
 {
-  "versionCode": 28,
-  "versionName": "0.8.2",
-  "apkUrl": "https://github.com/SalvatoreArdimento/remind-releases/releases/download/v0.8.2/reminds-0.8.2.apk",
-  "sha256": "4dba79ac67559954c891104f2ed80e43b10db4419892d971d5fdd2a9349854ae",
-  "changelog": "Tema: transizione morbida (dissolvenza) tra chiaro e scuro. Disegno: corretto il pan che si muoveva di pochi pixel e foglio ancora più grande (3x)."
+  "versionCode": 29,
+  "versionName": "0.9.0",
+  "apkUrl": "https://github.com/SalvatoreArdimento/remind-releases/releases/download/v0.9.0/reminds-0.9.0.apk",
+  "sha256": "a0c743087cd6248500f2f8dc88abddf73121842981f549494ec43bdae0267f49",
+  "changelog": "Nuove Note nascoste (impronta/blocco dispositivo, contenuto cifrato, fuori da screenshot e backup) e nuova sezione Parcheggio (GPS ad alta precisione, storico, mappa, offline). La Home capisce \"Ho appena parcheggiato\" e \"Dove ho parcheggiato?\"."
 }

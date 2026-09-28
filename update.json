@@ -1,7 +1,7 @@
 {
-  "versionCode": 33,
-  "versionName": "0.10.2",
-  "apkUrl": "https://github.com/SalvatoreArdimento/remind-releases/releases/download/v0.10.2/reminds-0.10.2.apk",
-  "sha256": "da1f638537ee46582d9d67c0ad5358675d5979f3d2a693a6a9f03efcd77e6914",
-  "changelog": "Strumenti - Estrazione: quando si chiedono piu numeri vengono presi uno alla volta, con una breve pausa dopo ogni numero estratto."
+  "versionCode": 34,
+  "versionName": "0.10.3",
+  "apkUrl": "https://github.com/SalvatoreArdimento/remind-releases/releases/download/v0.10.3/reminds-0.10.3.apk",
+  "sha256": "6e7ecd6262346a8d536035d11a41bcf0fd136fb286589d0cd912972ccf8e2648",
+  "changelog": "Strumenti - Estrazione: l'animazione con i numeri che scorrono ora si ripete per ogni numero da estrarre, non solo per il primo."
 }

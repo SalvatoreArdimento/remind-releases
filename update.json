@@ -1,7 +1,7 @@
 {
-  "versionCode": 27,
-  "versionName": "0.8.1",
-  "apkUrl": "https://github.com/SalvatoreArdimento/remind-releases/releases/download/v0.8.1/reminds-0.8.1.apk",
-  "sha256": "e204edea4f3001ff1745024199ffd74e4648a2bc629fee74957f01893e43cbcf",
-  "changelog": "Tema chiaro/scuro/sistema ora applicato e ricordato (default scuro). Wallet: stringhe lunghe delle notifiche Google Pay non più troncate. Note/disegno: schermo intero, modalità sposta su foglio grande e comandi a icone."
+  "versionCode": 28,
+  "versionName": "0.8.2",
+  "apkUrl": "https://github.com/SalvatoreArdimento/remind-releases/releases/download/v0.8.2/reminds-0.8.2.apk",
+  "sha256": "4dba79ac67559954c891104f2ed80e43b10db4419892d971d5fdd2a9349854ae",
+  "changelog": "Tema: transizione morbida (dissolvenza) tra chiaro e scuro. Disegno: corretto il pan che si muoveva di pochi pixel e foglio ancora più grande (3x)."
 }

@@ -1,7 +1,7 @@
 {
-  "versionCode": 26,
-  "versionName": "0.8.0",
-  "apkUrl": "https://github.com/SalvatoreArdimento/remind-releases/releases/download/v0.8.0/reminds-0.8.0.apk",
-  "sha256": "4fec7c0d1d1e074792bc5b5ce76a4898e652b386334a743d80f492c2497862d0",
-  "changelog": "Instradamento Home ibrido (regole + modello locale con 10 esempi per sezione, cache e preload); scelta Regole/Ibrido/Modello in Impostazioni; contatori in Diagnostica; pulizia dei parametri con rimozione delle parole di riempimento (es. 'purtroppo') da note e titoli."
+  "versionCode": 27,
+  "versionName": "0.8.1",
+  "apkUrl": "https://github.com/SalvatoreArdimento/remind-releases/releases/download/v0.8.1/reminds-0.8.1.apk",
+  "sha256": "e204edea4f3001ff1745024199ffd74e4648a2bc629fee74957f01893e43cbcf",
+  "changelog": "Tema chiaro/scuro/sistema ora applicato e ricordato (default scuro). Wallet: stringhe lunghe delle notifiche Google Pay non più troncate. Note/disegno: schermo intero, modalità sposta su foglio grande e comandi a icone."
 }

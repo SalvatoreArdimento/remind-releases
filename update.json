@@ -1,7 +1,7 @@
 {
-  "versionCode": 32,
-  "versionName": "0.10.1",
-  "apkUrl": "https://github.com/SalvatoreArdimento/remind-releases/releases/download/v0.10.1/reminds-0.10.1.apk",
-  "sha256": "8a2cbb7d016bcd92c9b66444fa41007ef119c671789e9684b5b23ebf37a3ec2f",
-  "changelog": "Aggiornamenti: risolto il controllo che a volte non trovava la nuova versione (risposta in cache del server). Carburante: km totali sulla scheda del veicolo con pulsante per correggerli, modulo rifornimento senza km totali, tastiera che non copre piu i campi."
+  "versionCode": 33,
+  "versionName": "0.10.2",
+  "apkUrl": "https://github.com/SalvatoreArdimento/remind-releases/releases/download/v0.10.2/reminds-0.10.2.apk",
+  "sha256": "da1f638537ee46582d9d67c0ad5358675d5979f3d2a693a6a9f03efcd77e6914",
+  "changelog": "Strumenti - Estrazione: quando si chiedono piu numeri vengono presi uno alla volta, con una breve pausa dopo ogni numero estratto."
 }

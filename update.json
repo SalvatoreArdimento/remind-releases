@@ -1,7 +1,7 @@
 {
-  "versionCode": 36,
-  "versionName": "0.11.0",
-  "apkUrl": "https://github.com/SalvatoreArdimento/remind-releases/releases/download/v0.11.0/reminds-0.11.0.apk",
-  "sha256": "07ef9359bf02d2d1f321334fcb4676309e3cd2be78b582b3177b03c1776f665e",
-  "changelog": "Parcheggio: tasto Calibra GPS. Carburante: calcolo manuale con icona (niente auto), veicoli multifuel (bifuel) con scelta del carburante al rifornimento e casella Non conteggiare i km."
+  "versionCode": 37,
+  "versionName": "0.11.1",
+  "apkUrl": "https://github.com/SalvatoreArdimento/remind-releases/releases/download/v0.11.1/reminds-0.11.1.apk",
+  "sha256": "6ca196211ca5ac35fe90001c32562d038f1b89c9ac74a41a4464174c58650b52",
+  "changelog": "Strumenti - Estrazione: nell'eliminazione i numeri ora si illuminano prima di essere scartati, con evidenziazione piu lenta e visibile."
 }

@@ -1,7 +1,7 @@
 {
-  "versionCode": 39,
-  "versionName": "0.12.0",
-  "apkUrl": "https://github.com/SalvatoreArdimento/remind-releases/releases/download/v0.12.0/reminds-0.12.0.apk",
-  "sha256": "8b87c836b6aee2e0b04c857815b7e6dd853ae11d3d98c29089c2ec7658731d2b",
-  "changelog": "Home: card 'Oggi' con eventi, timer, spese da approvare e ultimo parcheggio. Agenda: eventi del calendario di sistema (opzionale, sola lettura) nella vista calendario."
+  "versionCode": 40,
+  "versionName": "0.12.1",
+  "apkUrl": "https://github.com/SalvatoreArdimento/remind-releases/releases/download/v0.12.1/reminds-0.12.1.apk",
+  "sha256": "5f4f401375d91f611376aeb5f334c489d51f1bb7807131cb5da6179a2d012810",
+  "changelog": "Agenda/Home: un evento di sistema non compare piu due volte quando lo stesso evento e presente in piu calendari (o anche gia in Reminds)."
 }

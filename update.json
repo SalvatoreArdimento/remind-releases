@@ -1,7 +1,7 @@
 {
-  "versionCode": 37,
-  "versionName": "0.11.1",
-  "apkUrl": "https://github.com/SalvatoreArdimento/remind-releases/releases/download/v0.11.1/reminds-0.11.1.apk",
-  "sha256": "6ca196211ca5ac35fe90001c32562d038f1b89c9ac74a41a4464174c58650b52",
-  "changelog": "Strumenti - Estrazione: nell'eliminazione i numeri ora si illuminano prima di essere scartati, con evidenziazione piu lenta e visibile."
+  "versionCode": 38,
+  "versionName": "0.11.2",
+  "apkUrl": "https://github.com/SalvatoreArdimento/remind-releases/releases/download/v0.11.2/reminds-0.11.2.apk",
+  "sha256": "bcc60ae0e48030ddbe6827ebc3f79da383a763a0a2e3205a15a662c05c14bc2d",
+  "changelog": "Home: frasi come 'prenotata visita il 6 novembre' ora vanno in Agenda e propongono di creare l'evento; lo strumento Data resta solo per le domande esplicite."
 }

@@ -1,7 +1,7 @@
 {
-  "versionCode": 38,
-  "versionName": "0.11.2",
-  "apkUrl": "https://github.com/SalvatoreArdimento/remind-releases/releases/download/v0.11.2/reminds-0.11.2.apk",
-  "sha256": "bcc60ae0e48030ddbe6827ebc3f79da383a763a0a2e3205a15a662c05c14bc2d",
-  "changelog": "Home: frasi come 'prenotata visita il 6 novembre' ora vanno in Agenda e propongono di creare l'evento; lo strumento Data resta solo per le domande esplicite."
+  "versionCode": 39,
+  "versionName": "0.12.0",
+  "apkUrl": "https://github.com/SalvatoreArdimento/remind-releases/releases/download/v0.12.0/reminds-0.12.0.apk",
+  "sha256": "8b87c836b6aee2e0b04c857815b7e6dd853ae11d3d98c29089c2ec7658731d2b",
+  "changelog": "Home: card 'Oggi' con eventi, timer, spese da approvare e ultimo parcheggio. Agenda: eventi del calendario di sistema (opzionale, sola lettura) nella vista calendario."
 }

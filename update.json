@@ -1,7 +1,7 @@
 {
-  "versionCode": 40,
-  "versionName": "0.12.1",
-  "apkUrl": "https://github.com/SalvatoreArdimento/remind-releases/releases/download/v0.12.1/reminds-0.12.1.apk",
-  "sha256": "5f4f401375d91f611376aeb5f334c489d51f1bb7807131cb5da6179a2d012810",
-  "changelog": "Agenda/Home: un evento di sistema non compare piu due volte quando lo stesso evento e presente in piu calendari (o anche gia in Reminds)."
+  "versionCode": 41,
+  "versionName": "0.13.0",
+  "apkUrl": "https://github.com/SalvatoreArdimento/remind-releases/releases/download/v0.13.0/reminds-0.13.0.apk",
+  "sha256": "9e271417a25e456f9e67a5bde07c13a8a274a40d3bbb52b98b2e92aed28ad32e",
+  "changelog": "Agenda: puoi segnare un evento come fatto (checkbox). Resta in Agenda barrato ma non compare piu in Home; puoi segnarlo come fatto anche dal riepilogo Oggi."
 }
